@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mexsu_internship_litzy_yanez/static/css/main.62e1cb17.css",
+    "main.js": "/mexsu_internship_litzy_yanez/static/js/main.32586399.js",
+    "static/js/453.912a595b.chunk.js": "/mexsu_internship_litzy_yanez/static/js/453.912a595b.chunk.js",
+    "index.html": "/mexsu_internship_litzy_yanez/index.html",
+    "main.62e1cb17.css.map": "/mexsu_internship_litzy_yanez/static/css/main.62e1cb17.css.map",
+    "main.32586399.js.map": "/mexsu_internship_litzy_yanez/static/js/main.32586399.js.map",
+    "453.912a595b.chunk.js.map": "/mexsu_internship_litzy_yanez/static/js/453.912a595b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62e1cb17.css",
+    "static/js/main.32586399.js"
+  ]
+}
