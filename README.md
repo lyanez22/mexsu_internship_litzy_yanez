@@ -1,3 +1,3 @@
-# MEXSU Internship App  
+# MEXSU Internship Project  
 
-This is a simple React app created for the MEXSU internship (＾▽＾)
+This is a simple React project created for the MEXSU internship (＾▽＾)
